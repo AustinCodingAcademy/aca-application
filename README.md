@@ -19,9 +19,9 @@ We currently have three levels of a web development track: Intro, Intermediate, 
 
 1. Modern web design components. You can get some ideas from [here](http://noeticforce.com/modern-web-design-elements-apps-and-websites)
 1. Ability to design for mobile, tablet, and desktop using a responsive grid
-2. Knowledge of a popular CSS framework such as Bootstrap and Foundation, as well as Material Design principles are a plus. You don't have to use them for this project, but your CSS should be organized in a modular framework-like way.
+2. Knowledge of a popular CSS framework, such as Bootstrap and Foundation, as well as Material Design principles, are a plus. You don't have to use them for this project, but your CSS should be organized in a modular framework-like way.
 3. The project can be about any subject, one or more pages, and can contain generated "Lorem Ipsum" text, stock photos, etc.
-4. You can use CDNs for any libraries, and put this file in this repository and link to it from the landing page.
+4. You can use CDNs for any external libraries, and put this file in this repository and link to it from the landing page.
 
 **If you are going for Intermediate:**
 
@@ -37,3 +37,5 @@ We currently have three levels of a web development track: Intro, Intermediate, 
 2. On the frontend, construct a single page app using your preferred framework, bonus points for using Backbone.js.
 3. Authentication is not necessary
 3. Would be awesome if you could host it on Heroku, AWS, etc, but if you can't figure it out just link to the source with instructions to get it going.
+
+If you have any questions regarding this project, open an issue on this repository and ping @mistakevin
