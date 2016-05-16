@@ -7,7 +7,7 @@ Welcome to the Austin Coding Academy Application Project! Here is where you can 
 ## Setup Instructions
 1. Fork this repository
 2. Get busy
-3. Once you finish, send an email to [clofton@austincodingacademy.com](mailto:clofton@austincodingacademy.com)
+3. Once you finish, send an email to [clofton@austincodingacademy.com](mailto:clofton@austincodingacademy.com) and let us know!
 
 ## How This Works
 This repository's default branch is `gh-pages`. When you fork it, it will auto host itself at _username_.github.io/aca-application. The landing page should contain information about yourself. Feel free to style it to your liking. Your projects will live in the repo as `.html` files, and you can link to your assets from within the repo.
