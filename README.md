@@ -26,16 +26,16 @@ We currently have three levels of a web development track: Intro, Intermediate, 
 
 **If you are going for Intermediate:**
 
-1. Build a game, such as [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)), using JavaScript and jQuery. 
-2. Using the [Github API](https://developer.github.com/v3/) and AJAX, insert the javascript code below the game. Bonus points for syntax highlighting
+1. Build a game, such as [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)), using JavaScript and jQuery if you're in Austin and C# in Dallas, Houston, or San Antonio. 
+2. Using the [Github API](https://developer.github.com/v3/) and AJAX, insert the code below the game. Bonus points for syntax highlighting
 3. Since this is all frontend, you should be able to host it from this repository. Link to it from the landing page.
 
 
 **So you want to turn it up to 11? For the Advanced course:**
 
-1. Build a fullstack webapp, such as a trello clone, with a RESTful, MVC architectured backend API using whatever you are familiar with, bonus points if you use Node.js/Express.js.
-2. Use a database
-2. On the frontend, construct a single page app using your preferred framework, bonus points for using Backbone.js.
+1. Build a fullstack webapp, such as a trello clone, with a RESTful, MVC architectured backend API with Node.js/Express.js if you are in Austin and C# .NET if you are in Dallas, Houston, or San Antonio.
+2. Use a database (MongoDB in Austin / SQL in Dallas, Houston, or San Antonio).
+2. On the frontend, construct a single page app.
 3. Authentication is not necessary
 3. Would be awesome if you could host it on Heroku, AWS, etc, but if you can't figure it out just link to the source with instructions to get it going.
 
